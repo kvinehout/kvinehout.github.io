@@ -41,6 +41,7 @@ Predicting Task-based Connectivity Project
 ----
 - Designed experiment, collected and analyzed 30 subject’s data for novel study examining stroke neurological function
 - Showed some stroke related changes are task-dependant 
+- [Paper here](https://link.springer.com/article/10.1007/s00221-021-06261-y)
 
  Deep learing Teaching Assistant 
 ----
