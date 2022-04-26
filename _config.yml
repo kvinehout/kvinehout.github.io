@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kaleb Vinehout"
-  avatar           : "Headshot.png"
+  avatar           : "files/Headshot.png"
   bio              : "Data Scientist"
   location         : "Saint Louis, Mo"
   employer         :
