@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaleb Vinehout | Postdoctoral Fellow in Artifical Inteligence"
+title                    : "Kaleb Vinehout"
 title_separator          : "-"
 name                     : &name "Kaleb Vinehout, Phd"
 description              : &description "Postdoctoral Fellow| Data Scientist | Machine Learning | Image Processing | Neuroimaging"
