@@ -17,7 +17,6 @@ venue: 'experimental brain research'
 paperurl: 'http://kvinehout.github.io/files/Vinehout2022_Article_TaskEffectsOnFunctionalConnect.pdf'
 citation: 'Vinehout, K., Schindler-Ivens, S., Binder, J. R., & Schmit, B. D. (2021). Task effects on functional connectivity measures after stroke. Experimental brain research, 1-16.'
 ---
-Review on the role of the mutation CHMP2B<sup>Intron5</sup> in the autophagy pathway and the ALS-FTD spectrum of disease.
 
 [Download paper here](http://kvinehout.github.io/files/Spasticity.pdf)
 
