@@ -9,7 +9,6 @@ venue: 'Frontiers in Neurology'
 paperurl: 'http://kvinehout.github.io/files/MultisensoryControl.pdf'
 citation: 'Kalinosky, B. T., Vinehout, K., Sotelo, M. R., Hyngstrom, A. S., & Schmit, B. D. (2019). Tasked-based functional brain connectivity in multisensory control of wrist movement after stroke. Frontiers in Neurology, 609.'
 ---
-Review on the role of the mutation CHMP2B<sup>Intron5</sup> in the autophagy pathway and the ALS-FTD spectrum of disease.
 
 [Download paper here](http://kvinehout.github.io/files/MultisensoryControl.pdf)
 
