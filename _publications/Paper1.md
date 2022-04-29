@@ -11,6 +11,7 @@ Design: We used functional Magnetic Resonance Imaging (fMRI) to track changes in
 Results: BoNT-A injection therapy resulted in significant increases in brain activation in the contralesional premotor cortex, cingulate gyrus, thalamus, superior cerebellum, and in the ipsilesional sensory integration area. Lastly, cerebellar connectivity correlated with the Fugl-Meyer assessment of motor impairment before injection, while premotor connectivity correlated with the Fugl-Meyer score after injection.
 
 Conclusion: BoNT-A therapy for treatment of focal spasticity resulted in increased brain activation in areas associated with motor control, and cerebellar connectivity correlated with motor impairment before injection. These results suggest that neuroplastic effects might take place in response to improvements in focal spasticity.'
+
 date: 2016-10-01
 venue: 'Frontiers in Rehabilitation Sciences'
 paperurl: 'http://kvinehout.github.io/files/Spasticity.pdf'
