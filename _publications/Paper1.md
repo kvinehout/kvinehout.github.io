@@ -12,7 +12,7 @@ Results: BoNT-A injection therapy resulted in significant increases in brain act
 
 Conclusion: BoNT-A therapy for treatment of focal spasticity resulted in increased brain activation in areas associated with motor control, and cerebellar connectivity correlated with motor impairment before injection. These results suggest that neuroplastic effects might take place in response to improvements in focal spasticity.'
 
-date: 2016-10-01
+date: 2021-12-16
 venue: 'Frontiers in Rehabilitation Sciences'
 paperurl: 'http://kvinehout.github.io/files/Spasticity.pdf'
 citation: 'Vinehout, K., Sotelo, M. R., Hyngstrom, A. S., McGuire, J. R., & Schmit, B. D. Botulinum Toxin and brain activity in stroke Changes in cortical activity in stroke survivors undergoing botulinum neurotoxin therapy for treatment of focal spasticity. Frontiers in Rehabilitation Sciences, 99.'
